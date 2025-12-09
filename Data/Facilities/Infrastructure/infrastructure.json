@@ -1,0 +1,51 @@
+{
+    "Infrastructure_facilities": {
+        "Auditorium / Seminar Hall": [
+            "NIET has a well-designed auditorium where many students take the center stage and showcase their scholastic and cultural talents.",
+            "The auditorium provides students a platform to engage in various extra-curricular activities and build their personalities."
+        ],
+        "Conference_room": {
+            "Overview": "State-of-the-art conference rooms ideal for academic and corporate events.",
+            "Technology": [
+                "HD projectors",
+                "Sound systems",
+                "Interactive display screens",
+                "Advanced audiovisual equipment"
+            ],
+            "seating": "Flexible seating arrangements suitable for small teams to large gatherings.",
+            "Environment": "Modern design, natural light, ergonomic furniture.",
+            "Accessibility": "Located in Greater Noida with ample parking and public transport access.",
+            "Support": "Dedicated team for technical assistance and event coordination."
+        },
+        "Recording_room": {
+            "Overview": "NIET provides state-of-the-art recording room facilities to support audio production.",
+            "Acoustics": "Rooms are acoustically engineered to reduce noise, control reflections, and produce distortion-free recordings.",
+            "Equipment": [
+                "Professional microphones",
+                "Audio interfaces",
+                "Monitoring systems",
+                "Industry-standard recording tools"
+            ],
+            "Flexibility": "Supports solo vocals, instruments, podcasting, full band recordings, and voiceovers with customizable setups.",
+            "Environment": "Comfortable, creative, and inspiring space designed for collaboration and long recording sessions.",
+            "Benefits": "Enables high-fidelity recordings, encourages innovation, and helps users create industry-quality audio content."
+        },
+        "Transport_service": {
+            "Overview": "NIET provides efficient and safe transportation facilities for students and staff.",
+            "Fleet": "Well-maintained buses with modern amenities.",
+            "Routes": "Covers major residential and transport hubs across Delhi NCR.",
+            "Schedule": "Timings aligned with academic and administrative needs, including early morning and late evening hours.",
+            "Safety": [
+                "Trained drivers",
+                "Strict safety protocols",
+                "GPS-enabled buses for real-time tracking"
+            ],
+            "Comfort": "Comfortable seating and clean, well-ventilated buses.",
+            "Benefits": "Ensures convenient, safe, and reliable commuting for students and staff."
+        },
+        "Innovation Labs":[
+            "27+ innovation labs",
+            ""
+        ]
+    }
+}
