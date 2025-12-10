@@ -1,0 +1,12 @@
+:root{
+  --raspberry: rbg(207,20,39);
+  --raspberry-dark: #551023;
+  --accent: #F6F0F2;
+  --bg: #fff;
+}
+html,body,#root{height:100%;}
+body{
+  margin:0;
+  font-family: Inter, system-ui, Arial;
+  background: var(--bg);
+}
