@@ -12,7 +12,7 @@
                 "Interactive display screens",
                 "Advanced audiovisual equipment"
             ],
-            "seating": "Flexible seating arrangements suitable for small teams to large gatherings.",
+            "Seating": "Flexible seating arrangements suitable for small teams to large gatherings.",
             "Environment": "Modern design, natural light, ergonomic furniture.",
             "Accessibility": "Located in Greater Noida with ample parking and public transport access.",
             "Support": "Dedicated team for technical assistance and event coordination."
@@ -43,9 +43,48 @@
             "Comfort": "Comfortable seating and clean, well-ventilated buses.",
             "Benefits": "Ensures convenient, safe, and reliable commuting for students and staff."
         },
-        "Innovation Labs":[
+        "Innovation_Labs":[
             "27+ innovation labs",
-            ""
-        ]
+            " Our Laboratory Program lays the very foundation of the programming skills for the students from every engineering stream",
+            "These laboratories are the ideal destinations for active learning.",
+            " Students learn in a real world environment, function as team members, discuss the planning of experiments",
+            "Mercedes Benz, AICTE IDEA Lab, PTC Centre of Excellence, Mobile App Developement, Cisco Networking Academy..."
+        ],
+        "Laboratories":[
+            "NIET believes in acing the practicality along with the theoretical expertise.",
+            "The laboratories we possess, aren’t just for conducting chemical experiments"
+        ],
+        "Library":[
+            "The libraries at NIET occupy over 14,000 square feet area",
+            "Provide students access to a vast repository of resources, including books and periodicals."
+        ],
+        "Classrooms":[
+            "150+ Classrooms available in college",
+            "The classrooms have ergonomically designed furniture, seamless Wi-Fi connectivity",
+            "Climate controlling systems, aesthetic lighting, and visually pleasing interiors that make the environment of the classroom more conducive towards learning.",
+            "The classrooms are well-equipped with projectors, computers, high-tech sound systems, OHPs and other kinds of audio-visual tools."
+        ],
+        "Sports":[
+            "At NIET, students develop leadership and team skills, while pursuing their interests through diverse organizations.",
+            " From cricket to basketball, athletics to yoga - students can stay fit in any way they choose.",
+            "NIET recently started the Marathon Club where students and other citizens of Greater Noida actively participate."
+        ],
+        "GYM":{
+            "Equipment":[
+                "25+ GYM Equipments available in college GYM",
+                "Our gym is spacious, well-ventilated, and maintained to the highest standards of cleanliness and hygiene.",
+                "Trained fitness instructors are available to provide guidance, support, and personalized workout plans"
+            ],
+            "Culture_Wellness":[
+                "NIET's gym facilities play a crucial role in promoting a culture of wellness on campus.",
+                "By encouraging students to prioritize their health and fitness, we instill values of discipline, self-care, and resilience—qualities that are essential for success not only in academics but also in life.",
+                "The gym serves as a hub for social interaction and community building"
+            ],
+            "Accessibility":[
+                "NIET is committed to ensuring that our gym facilities are accessible and inclusive for all.",
+                " We strive to accommodate individuals with varying abilities and preferences, offering adaptive equipment and modifying workouts",
+                "Our gym facilities embody this philosophy, providing students with the resources, support, and encouragement they need to thrive both inside and outside the classroom."
+            ]
+        }
     }
 }
